@@ -6,6 +6,7 @@ userScore=0
 compScore=0
 userString = "null"
 while exitCode < 2:
+    compChoice = random.randint(1, 3)
     userChoice = int(input("Pick your weapon: \n 1. Rock \n 2. Paper \n 3. Scissors \n"))
     if userChoice == 1:
         userString = "Rock"

@@ -16,6 +16,6 @@ Build a simple rock paper scissors game using Python that allows you to play the
 
 
 ## Skills learned
-- How to map numbers to strnig values
+- How to map numbers to string values
 - The importance of placing random variable inside the loop to change  computer choice
 
